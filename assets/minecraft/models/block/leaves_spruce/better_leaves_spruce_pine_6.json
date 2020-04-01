@@ -21,28 +21,6 @@
 			}
 		},
 		{
-			"__comment": "Element",
-			"from": [ -6.815, -8, 14.125 ],
-			"to": [ 25.185, 24, 14.185 ],
-			"rotation": { "origin": [ -6.815, -8, 14.125 ], "axis": "y", "angle": 22.5 },
-			"shade": false,
-			"faces": {
-				"north": { "uv": [ 0, 0, 16, 16 ], "texture": "#extra", "tintindex": 0 },
-				"south": { "uv": [ 0, 0, 16, 16 ], "texture": "#extra", "tintindex": 0 }
-			}
-		},
-		{
-			"__comment": "Element",
-			"from": [ 1.875, -8, -6.815 ],
-			"to": [ 1.935, 24, 25.185 ],
-			"rotation": { "origin": [ 1.875, -8, -6.812 ], "axis": "y", "angle": 22.5 },
-			"shade": false,
-			"faces": {
-				"west": { "uv": [ 0, 0, 16, 16 ], "texture": "#extra", "tintindex": 0 },
-				"east": { "uv": [ 0, 0, 16, 16 ], "texture": "#extra", "tintindex": 0 }
-			}
-		},
-		{
 			"__comment": "pine2_tile1",
 			"from": [ 4, -5, 1 ],
 			"to": [ 4.001, 1, 5.25 ],
@@ -64,9 +42,9 @@
 		},
 		{
 			"__comment": "pine_tile_1",
-			"from": [ 16.5, 3.5, 2.5 ],
-			"to": [ 16.501, 9.5, 6.75 ],
-			"rotation": { "origin": [ 16.5, 3.5, 2.5 ], "axis": "y", "angle": 45 },
+			"from": [ 14.5, 3.5, 2.5 ],
+			"to": [ 14.501, 9.5, 6.75 ],
+			"rotation": { "origin": [ 14.5, 3.5, 2.5 ], "axis": "y", "angle": 45 },
 			"faces": {
 				"west": { "uv": [ 5, 0, 12, 10 ], "texture": "#pine" },
 				"east": { "uv": [ 5, 0, 12, 10 ], "texture": "#pine" }
@@ -74,9 +52,9 @@
 		},
 		{
 			"__comment": "pine_tile_2",
-			"from": [ 19.5, 3.5, 2.5 ],
-			"to": [ 19.501, 9.5, 6.75 ],
-			"rotation": { "origin": [ 19.5, 3.5, 2.5 ], "axis": "y", "angle": -45 },
+			"from": [ 17.5, 3.5, 2.5 ],
+			"to": [ 17.501, 9.5, 6.75 ],
+			"rotation": { "origin": [ 17.5, 3.5, 2.5 ], "axis": "y", "angle": -45 },
 			"faces": {
 				"west": { "uv": [ 5, 0, 12, 10 ], "texture": "#pine" },
 				"east": { "uv": [ 5, 0, 12, 10 ], "texture": "#pine" }
